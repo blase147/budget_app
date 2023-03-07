@@ -12,6 +12,9 @@ gem "devise"
 # rails ontroller spec
 gem 'rails-controller-testing'
 
+# authorization
+gem 'cancancan'
+
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
