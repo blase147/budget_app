@@ -14,5 +14,5 @@ services:
         fromDatabase:
           name: budget_app
           property: connectionString
-      - key: RAILS_MASTER_KEY
+      - key: 09c315b0b748767b107ce075bbb84a82
         sync: false
