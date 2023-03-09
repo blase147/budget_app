@@ -39,7 +39,6 @@ class ExpensesController < ApplicationController
     end
   end
 
-  # rubocop:disable Lint/UselessAssignment
   def destroy
     if can? :edit, @expense
       @group_expenses = GroupExpense.where(expense_id: @expense.id)
@@ -58,7 +57,6 @@ class ExpensesController < ApplicationController
       redirect_to groups_path
     end
   end
-  # rubocop:enable Lint/UselessAssignment
 
   private
 
