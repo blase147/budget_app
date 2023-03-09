@@ -14,5 +14,5 @@ services:
         fromDatabase:
           name: budget_app
           property: connectionString
-      - key: ghGMiC/tyXv5/2grvrhituvIOg3iJ5pL1/lUDeYzWgPsA5uVSO3SzYQGE+vafrg1idJGlYzCnHOvvtYU3PD72b9xIMQ4bd2cNRLrv7ggCEYo7d/fKj9cxrT8hCuJFHHW3Iea5GcwVxxYCnTtCRYMMwAU5l5+FRg68wNb3DEJjtvPI058/xUakDcqcJP2iN4eHAuhoAQWvcdBoCYif+zLzpu3lquCnAwqHRzLg58RDpLkLcyXm9ws3LFE5HEZyrmtl3h670inAerOzZCy+rVimJ5B2zi9fmi1FETsKlEtgQ5icTscMT0Nb9Iu0r+5T3Pz3ZMm9co8n/CHt+D4JwT8t4zbp6dN/LpAZZHGIf3k6gSKBpnEGOa+N5fCSBDRxVTuLnOlY+DIqW/iaSP5XzJ6aNi9i0Oh5KgUMXnU--6Gv+CmY7ePTPmKZ3--yzrn09A5hRjzBZ1oKBQwkQ==
+      - key: RAILS_MASTER_KEY
         sync: false
