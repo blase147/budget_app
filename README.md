@@ -60,7 +60,7 @@ The **Budget App** mobile web application where you can manage your budget: you 
 ### Key Features <a name="key-features"></a>
 
 - **Groups Page:** *Displays a list of groups with their name, icon and total amount of expenses*
-- **Expenses page:** *Display a list of expenses for a given group, ordered by the most recent.*
+- **Expenses page:** *Displays a list of expenses for a given group, ordered by the most recent.*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
