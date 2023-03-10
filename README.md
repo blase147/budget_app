@@ -66,7 +66,7 @@ The **Budget App** mobile web application where you can manage your budget: you 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Budget App](https://budget-app-ghuq.onrender.com)
+- [Budget App](https://budget-app-uj17.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
