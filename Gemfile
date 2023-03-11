@@ -9,8 +9,8 @@ gem 'rubocop', '>= 1.0', '< 2.0'
 # authentication
 gem 'devise'
 
-# rails ontroller spec
-gem 'rails-controller-testing'
+# rails controller spec
+# gem 'rails-controller-testing'
 
 # authorization
 gem 'cancancan'
