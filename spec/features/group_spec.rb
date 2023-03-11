@@ -1,4 +1,5 @@
 require 'rails_helper'
+require 'bullet'
 
 RSpec.describe 'Groups Page', type: :system do
   describe 'Group /index' do

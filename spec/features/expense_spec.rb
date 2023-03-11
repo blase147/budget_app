@@ -1,4 +1,5 @@
 require 'rails_helper'
+require 'bullet'
 
 RSpec.describe 'Expenses Page', type: :system do
   describe 'Expenses /index' do

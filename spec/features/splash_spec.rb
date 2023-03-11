@@ -1,4 +1,5 @@
 require 'rails_helper'
+require 'bullet'
 
 RSpec.describe 'Splash Page', type: :system do
   describe 'Splash /index' do
