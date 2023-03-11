@@ -86,7 +86,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-  git clone git@github.com:KanzaTahreem/Budget-App.git
+  git clone git@github.com:blase147/budget-App.git
   cd Budget-App
   bundle install
   rails db:create
