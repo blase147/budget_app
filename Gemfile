@@ -10,7 +10,7 @@ gem 'rubocop', '>= 1.0', '< 2.0'
 gem 'devise'
 
 # rails controller spec
-# gem 'rails-controller-testing'
+gem 'rails-controller-testing'
 
 # authorization
 gem 'cancancan'
