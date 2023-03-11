@@ -42,7 +42,7 @@ class GroupsController < ApplicationController
       @group_expenses.each do |group_expense|
         expense_id = group_expense.expense_id
         group_expense.destroy
-        expense = Expense.delete(expense_id)
+        @expense = Expense.delete(expense_id)
       end
       if @group.destroy
         redirect_to groups_path, notice: 'Groups was deleted successfully'
