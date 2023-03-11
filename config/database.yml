@@ -92,7 +92,7 @@ test:
 production:
   <<: *default
   url: <%= ENV['DATABASE_URL'] %>
-  database: budget_app_oduction
+  database: budget_app_poduction
   username: budget_app
   password: <%= ENV["DATABASE_URL"] %>
 
