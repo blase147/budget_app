@@ -20,7 +20,7 @@ RSpec.describe 'Splash Page', type: :system do
     end
 
     it 'displays the name of app' do
-      expect(page).to have_content('PayMark')
+      expect(page).to have_content('FirmTecs')
     end
 
     it 'displays a button with text Log in' do
