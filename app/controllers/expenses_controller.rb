@@ -43,7 +43,7 @@ class ExpensesController < ApplicationController
     if can? :edit, @expense
       @group_expenses = GroupExpense.where(expense_id: @expense.id)
       @group_expenses.each do |group_expense|
-        @expense = group_expense.expense_id
+        expense_id = group_expense.expense_id
         group_expense.destroy
       end
       if @expense.destroy
