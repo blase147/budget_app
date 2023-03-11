@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/blase147/budget_app/issues"
   },
-  "homepage": "https://github.com/blase147/budget_app#readme"
+  "homepage": "https://github.com/blase147/budget_app#readme",
+  "dependencies": {
+    "init": "^0.1.2"
+  }
 }
