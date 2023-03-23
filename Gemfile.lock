@@ -280,7 +280,7 @@ DEPENDENCIES
   cancancan
   capybara
   debug
-  devise
+  devise (~> 4.9.0)
   importmap-rails
   jbuilder
   pg (~> 1.1)

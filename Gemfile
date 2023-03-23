@@ -7,7 +7,7 @@ ruby '3.1.3'
 gem 'rubocop', '>= 1.0', '< 2.0'
 
 # authentication
-gem 'devise'
+gem 'devise', '~> 4.9.0'
 
 # rails controller spec
 gem 'rails-controller-testing'
