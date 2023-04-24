@@ -60,13 +60,13 @@ The **Budget App** mobile web application where you can manage your budget: you 
 ### Key Features <a name="key-features"></a>
 
 - **Groups Page:** *Displays a list of groups with their name, icon and total amount of expenses*
-- **Expenses page:** *Display a list of expenses for a given group, ordered by the most recent.*
+- **Expenses page:** *Displays a list of expenses for a given group, ordered by the most recent.*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Budget App](https://budget-app-production-1f98.up.railway.app/)
+- [Budget App](https://budget-app-5uzz.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,7 +86,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-  git clone git@github.com:KanzaTahreem/Budget-App.git
+  git clone git@github.com:blase147/budget_app.git
   cd Budget-App
   bundle install
   rails db:create
