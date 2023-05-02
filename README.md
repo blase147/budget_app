@@ -24,7 +24,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Budget App <a name="about-the-project"></a>
-The **Budget App** mobile web application where you can manage your budget: you have a list of expenses associated with a group, so that you can see how much money you spent and on what. The app allows users to:
+This is a mobile web application where you can manage your budget: you have a list of expenses associated with a group, so that you can see how much money you spent and on what. The app allows users to:
 
 - *Register and log in, so that the data is private to them.*
 - *Introduce new expenses associated with a group.*
